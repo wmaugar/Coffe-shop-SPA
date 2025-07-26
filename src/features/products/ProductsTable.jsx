@@ -1,5 +1,5 @@
 import Spinner from "../../ui/Spinner";
-import ProductRow from "./productRow";
+import ProductRow from "./ProductRow";
 import Table from "../../ui/Table";
 import Menus from "../../ui/Menus";
 import Empty from "../../ui/Empty";

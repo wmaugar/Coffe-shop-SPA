@@ -86,7 +86,7 @@ const Availability = styled.div`
 
 function ProductRow({ product }) {
   const { isDeleting, deleteProduct } = useDeleteProduct();
-  const { isDisabling, disableProduct } = useDisableProduct();
+  const { disableProduct } = useDisableProduct();
 
   const {
     id,
